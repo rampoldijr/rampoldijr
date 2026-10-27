@@ -28,14 +28,19 @@ This project gives me the opportunity to explore backend development, APIs, data
 
 [Explore TrendASys](https://trendasys.com/)
 
-##  Technologies I'm Exploring
+##  How I Build Software
 
-- **Languages:** TypeScript, JavaScript
-- **Backend:** Node.js, Fastify
-- **Frontend:** React
-- **Databases:** PostgreSQL, Redis
-- **AI:** Large Language Models (LLMs) and AI integration
-- **Tools:** Git, GitHub, Docker
+I'm learning software development through hands-on projects, using AI-assisted tools to help turn ideas into working applications.
+
+AI-Assisted Development: Using ChatGPT, Google Antigravity and OpenCode to explore solutions, develop features, and improve my understanding of code.
+
+Software Architecture: Defining project structure, planning components, evaluating technical approaches, and shaping system architecture.
+
+Local AI: Exploring locally hosted AI models with Ollama and LM Studio.
+
+Technology Exploration: Experimenting with modern development tools, frameworks, databases, and software engineering practices.
+
+Product Development: Turning ideas into practical applications, from initial planning and design to implementation, testing, and refinement.
 
 ##  What Drives Me
 
