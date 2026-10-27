@@ -27,7 +27,7 @@ I believe in learning by doing, solving problems, and continuously improving my 
 - Learn through hands-on projects and technical challenges.
 - Work towards my first professional opportunity in software development.
 
-### 📍 Location
+### Location
 
 London, United Kingdom
 
